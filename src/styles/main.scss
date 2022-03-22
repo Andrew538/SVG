@@ -1,0 +1,15 @@
+$bg: rgb(214, 23, 23);
+
+
+
+.box {
+    background-color: $bg;
+    &__title {
+        color: green;
+    }
+    &__image {
+        max-width: 150px;
+        
+    }
+}
+
